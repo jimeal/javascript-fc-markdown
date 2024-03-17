@@ -1,5 +1,7 @@
 # Array
 
+리터럴방식 [].method()
+
 ## Methods
 
 ```javascript
